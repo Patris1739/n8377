@@ -1,4 +1,4 @@
 from settings import settings
 
 student = settings(name='')
-print(student)
+print(student,'\n')
